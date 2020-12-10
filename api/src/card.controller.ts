@@ -31,10 +31,12 @@ export class CardController {
   getBook(@Param('name') title): Promise<Card | undefined> {
     return this.cardService.getCard(title);
   }
+
   @Get()
   getHello(): string {
     return this.cardService.getHello();
   }
+
   @Delete('/:name')
   deleteBook(@Param('name') title): Promise<void> {
     return this.cardService.deleteCard(title);
