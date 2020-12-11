@@ -10,6 +10,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
+import com.ismin.projectapp.R
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.element_liste.*
 import java.net.URL

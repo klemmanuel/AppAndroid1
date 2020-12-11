@@ -8,6 +8,7 @@ import android.widget.Button
 import android.widget.ImageButton
 import android.widget.ImageView
 import android.widget.TextView
+import com.ismin.projectapp.R
 import com.squareup.picasso.Picasso
 
 class DescriptionActivity : AppCompatActivity() {
@@ -23,7 +24,7 @@ class DescriptionActivity : AppCompatActivity() {
 
         //on récupère les données
         val data = bundle!!.getSerializable("Element") as Element
-        val (name, imageURL, posX, posY, personnes) = data
+        val (name, imageURL, personnes) = data
 
         //on affiche les données
         this.findViewById<TextView>(R.id.titleDescription).text = name
