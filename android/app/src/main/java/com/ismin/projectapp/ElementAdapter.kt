@@ -1,10 +1,12 @@
-package com.ismin.opendataapp
+package com.ismin.projectapp
 
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.ismin.projectapp.ElementViewHolder
+import com.ismin.projectapp.R
 import com.squareup.picasso.Picasso
 
 class ElementAdapter(private val icons: ArrayList<Element> , private val onItemClick: (Int) -> Unit) :
@@ -12,7 +14,8 @@ class ElementAdapter(private val icons: ArrayList<Element> , private val onItemC
 
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ElementViewHolder {
-        val row = LayoutInflater.from(parent.context).inflate(R.layout.element_liste, parent,
+        val row = LayoutInflater.from(parent.context).inflate(
+            R.layout.element_liste, parent,
             false)
         return ElementViewHolder(row, onItemClick)
     }

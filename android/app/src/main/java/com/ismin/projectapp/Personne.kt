@@ -1,4 +1,4 @@
-package com.ismin.opendataapp
+package com.ismin.projectapp
 
 import java.io.Serializable
 

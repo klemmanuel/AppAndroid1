@@ -1,4 +1,4 @@
-package com.ismin.opendataapp
+package com.ismin.projectapp
 
 import android.graphics.Color
 import android.view.View
@@ -6,6 +6,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.recyclerview.widget.RecyclerView
+import com.ismin.projectapp.R
 import com.squareup.picasso.Picasso
 
 class ElementViewHolder(rootView: View, private val onItemClick: (Int) -> Unit) : RecyclerView.ViewHolder(rootView){

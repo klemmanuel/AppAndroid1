@@ -1,4 +1,4 @@
-package com.ismin.opendataapp
+package com.ismin.projectapp
 
 import android.content.Context
 import android.net.Uri
@@ -10,6 +10,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.ismin.projectapp.R
 import kotlinx.android.synthetic.main.fragment_liste.*
 
 

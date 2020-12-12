@@ -1,4 +1,4 @@
-package com.ismin.opendataapp
+package com.ismin.projectapp
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
