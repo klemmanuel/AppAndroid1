@@ -1,0 +1,380 @@
+[{
+  "_id": {
+    "$oid": "5fd4d03abaad0fbb52eab52e"
+  },
+  "activite:": "philosophe français",
+  "code_wikipedia:": "Alain (philosophe)",
+  "date_deces:": "1951-06-02",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1868-03-03",
+  "date_naissance_precision:": "J",
+  "id": 3
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead515"
+  },
+  "activite:": "philosophe français",
+  "code_wikipedia:": "Alain (philosophe)",
+  "date_deces:": "1951-06-02",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1868-03-03",
+  "date_naissance_precision:": "J",
+  "id": 3,
+  "lien_categorie_wikimedia_commons:": "",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q275003?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Alain%20%28philosophe%29",
+  "nom": "Alain",
+  "resume": "<p><b>Alain</b>, de son vrai nom <b>Émile-Auguste Chartier</b> (<a href=\"/wiki/Mortagne-au-Perche\">Mortagne-au-Perche</a>, <a href=\"/wiki/Orne_(d%C3%A9partement)\">Orne</a>, <a href=\"/wiki/3_mars\">3</a> <a href=\"/wiki/Mars_1868\">mars</a> <a href=\"/wiki/1868\">1868</a> - <a href=\"/wiki/Le_V%C3%A9sinet\">Le Vésinet</a>, <a href=\"/wiki/Yvelines\">Yvelines</a>, <a href=\"/wiki/2_juin\">2</a> <a href=\"/wiki/Juin_1951\">juin</a> <a href=\"/wiki/1951\">1951</a>), est un <a href=\"/wiki/Philosophe\">philosophe</a>, <a href=\"/wiki/Journaliste\">journaliste</a>, <a href=\"/wiki/Essayiste\">essayiste</a> et <a href=\"/wiki/Professeur_(enseignant)\">professeur</a> de philosophie.</p>\n plus <p>L'auteur utilisa différents pseudonymes entre 1893 et 1914. Il signe «&#160;Criton&#160;» sept \"Dialogues\" adressées à la très universitaire <i>Revue de métaphysique et de morale</i> (dans laquelle il signe par ailleurs plusieurs articles de son vrai nom)&#160;; il signe «&#160;Quart d'œil&#160;» ou encore «&#160;Philibert&#160;» ses pamphlets dans <i>La Démocratie rouennaise</i> , journal éphémère destiné à soutenir la campagne du député Ricard à Rouen&#160;; enfin «&#160;Alain&#160;» pour signer différentes chroniques dans <i>La Dépêche de Lorient</i> (jusqu'en 1903) puis dans <i>La Dépêche de Rouen et de Normandie</i> de 1903 à 1914.</p>\n plus <p>L'adjectif utilisé et dérivé de son nom est <i>alinien</i>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead516"
+  },
+  "activite:": "chanteur français",
+  "code_wikipedia:": "Frank Alamo",
+  "date_deces:": "2012-10-11",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1941-10-12",
+  "date_naissance_precision:": "J",
+  "id": 63,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Frank%20Alamo",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q2339515?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Frank%20Alamo",
+  "nom": "Frank Alamo",
+  "resume": "<p><b>Frank Alamo</b>, de son vrai nom <b>Jean-François Grandin</b>, né le <a href=\"/wiki/12_octobre\">12</a> <a href=\"/wiki/Octobre_1941\">octobre</a> <a href=\"/wiki/1941_en_musique\">1941</a> à <a href=\"/wiki/Paris\">Paris</a> et mort le <a href=\"/wiki/11_octobre\">11</a> <a href=\"/wiki/Octobre_2012\">octobre</a> <a href=\"/wiki/2012\">2012</a> dans sa ville natale, est un <a href=\"/wiki/Chanteur\">chanteur</a> <a href=\"/wiki/France\">français</a> qui connaît le succès dans les années 1960.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead517"
+  },
+  "activite:": "ingénieur des ponts et chaussées français",
+  "code_wikipedia:": "Jean-Charles Alphand",
+  "date_deces:": "1891-12-06",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1817-10-26",
+  "date_naissance_precision:": "J",
+  "id": 245,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Jean-Charles%20Alphand",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q390367?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Jean-Charles%20Alphand",
+  "nom": "Jean-Charles Alphand",
+  "resume": " <p><b>Jean-Charles-Adolphe Alphand</b>, né à <a href=\"/wiki/Grenoble\">Grenoble</a> le <a href=\"/wiki/26_octobre\">26</a> <a href=\"/wiki/Octobre_1817\">octobre</a> <a href=\"/wiki/1817\">1817</a> et mort à <a href=\"/wiki/Paris\">Paris</a> le <a href=\"/wiki/6_d%C3%A9cembre\">6</a> <a href=\"/wiki/D%C3%A9cembre_1891\">décembre</a> <a href=\"/wiki/1891\">1891</a>, est un <a href=\"/wiki/Ing%C3%A9nieur_des_ponts_et_chauss%C3%A9es\">ingénieur des ponts et chaussées</a> connu pour son travail d'embellissement de <a href=\"/wiki/Paris\">Paris</a>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead518"
+  },
+  "activite:": "homme politique",
+  "code_wikipedia:": " \"Antoine Balthazar Joseph d'André\" ",
+  "date_deces:": "1825-07-16",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1759-07-02",
+  "date_naissance_precision:": "J",
+  "id": 278,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Antoine%20Balthazar%20Joseph%20d%27Andr%C3%A9",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q2853642?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Antoine%20Balthazar%20Joseph%20d%27Andr%C3%A9",
+  "nom": " \"Antoine Balthazar Joseph d'André\" ",
+  "resume": " <p><b>Antoine-Balthasar-Joseph d'André</b> (1759-1825) est un homme <a href=\"/wiki/Politique\">politique</a>, Conseiller au <a href=\"/wiki/Parlement_de_Provence\">Parlement de Provence</a> puis Député de l'<a href=\"/wiki/Assembl%C3%A9e_constituante\">Assemblée constituante</a> de 1789. Né à <a href=\"/wiki/Aix-en-Provence\">Aix-en-Provence</a>, le <a href=\"/wiki/2_juillet\">2 juillet</a> <a href=\"/wiki/1759\">1759</a>, il est mort à <a href=\"/wiki/Paris\">Paris</a> (10° ancien), le <a href=\"/wiki/16_juillet\">16</a> <a href=\"/wiki/Juillet_1825\">juillet</a> <a href=\"/wiki/1825\">1825</a>.</p>\n plus <p>André, appelé aussi d'André de Bellevue est le fils de Jacques-Joseph-Gabriel-Benoît, Conseiller en la Chambre des Comptes, Aides et Finances de Provence, et d'Anne-Jeanne-Françoise de Payan de Saint-Martin, elle-même fille d'un conseiller aux Comptes. Il épousa à <a href=\"/wiki/Aix-en-Provence\">Aix-en-Provence</a>, le <a href=\"/wiki/23_d%C3%A9cembre\">23</a> <a href=\"/wiki/D%C3%A9cembre_1782\">décembre</a> <a href=\"/wiki/1782\">1782</a>, Thérèse-Emilie-Fortunée Mignard, qui lui apportait 80&#160;000 livres de dot, fille de Joseph-Sauveur, négociant aixois et de Thérèse-Elisabeth-Reyne Mathieu.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead519"
+  },
+  "activite:": "ministre français",
+  "code_wikipedia:": "Vincent Ansquer",
+  "date_deces:": "1987-05-31",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1925-01-11",
+  "date_naissance_precision:": "J",
+  "id": 318,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Vincent%20Ansquer",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q3559456?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Vincent%20Ansquer",
+  "nom": "Vincent Ansquer",
+  "resume": "<p><b>Vincent Ansquer</b> est un homme politique français, né à <a href=\"/wiki/Treize-Septiers\">Treize-Septiers</a> (<a href=\"/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vendée</a>) le <a href=\"/wiki/11_janvier\">11 janvier</a> <a href=\"/wiki/1925\">1925</a>, mort le <a href=\"/wiki/31_mai\">31 mai</a> <a href=\"/wiki/1987\">1987</a> à <a href=\"/wiki/Levallois-Perret\">Levallois-Perret</a> (<a href=\"/wiki/Hauts-de-Seine\">Hauts-de-Seine</a>).</p>\n plus <p>Vincent Ansquer est successivement fonctionnaire de l'administration d'<a href=\"/wiki/France_d%27outre-mer\">Outre-Mer</a> (1946-1947), attaché commercial en <a href=\"/wiki/Guin%C3%A9e\">Guinée</a> (1946-52), directeur puis PDG des Etablissements Chaudière (fabrication de chaussures) à <a href=\"/wiki/La_Bruffi%C3%A8re\">La Bruffière</a>, <a href=\"/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vendée</a>.</p>\n plus <p>En <a href=\"/wiki/1962\">1962</a>, lors des deuxièmes élections législatives de la V<sup>e</sup> République, il est élu député <a href=\"/wiki/Union_pour_la_nouvelle_R%C3%A9publique\">UNR</a> dans la 4<sup>e</sup> circonscription de la <a href=\"/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vendée</a>, en battant le candidat des <a href=\"/wiki/Centre_national_des_ind%C3%A9pendants_et_paysans\">Indépendants et paysans</a> <a href=\"/wiki/Antoine_Guitton\">Antoine Guitton</a>.</p>\n plus <p>Ministre de 1974 à 1977, puis parlementaire européen, réélu député de la Vendée, il se porte candidat aux élections sénatoriales en septembre <a href=\"/wiki/1986\">1986</a>, mais il est battu par la liste <a href=\"/wiki/Rassemblement_pour_la_R%C3%A9publique\">RPR</a> dissidente de <a href=\"/wiki/Jacques_Oudin_(homme_politique)\">Jacques Oudin</a>.</p>\n plus <p>Il est inhumé au <a href=\"/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> (57<sup>e</sup> division).</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead51a"
+  },
+  "activite:": "poète français",
+  "code_wikipedia:": "Guillaume Apollinaire",
+  "date_deces:": "1918-11-09",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1880-08-25",
+  "date_naissance_precision:": "J",
+  "id": 87,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Guillaume%20Apollinaire",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q133855?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Guillaume%20Apollinaire",
+  "nom": "Guillaume Apollinaire",
+  "resume": " <p><b>Guillaume Apollinaire</b> (né <i>Wilhelm Albert Włodzimierz Aleksander Apolinary Kostrowicki, <a href=\"/wiki/Armorial_de_la_noblesse_polonaise\">herb.</a> <a href=\"/wiki/Clan_W%C4%85%C5%BC\">Wąż</a></i>. Apollinaire est en réalité — jusqu'à sa naturalisation en <a href=\"/wiki/1916\">1916</a> — le 5<sup>e</sup> prénom de <b>Guillaume Albert Vladimir Alexandre Apollinaire de Kostrowitzky</b>) est un <a href=\"/wiki/Po%C3%A8te\">poète</a> et <a href=\"/wiki/%C3%89crivain\">écrivain</a> <a href=\"/wiki/France\">français</a>, né sujet <a href=\"/wiki/Polonais_(peuple)\">polonais</a> de l'<a href=\"/wiki/Empire_russe\">Empire russe</a>. D'après sa fiche militaire, il est né le <a href=\"/wiki/25_ao%C3%BBt\">25</a> <a href=\"/wiki/Ao%C3%BBt_1880\">août</a> <a href=\"/wiki/1880\">1880</a> à <a href=\"/wiki/Rome\">Rome</a> et <a href=\"/wiki/Mort_pour_la_France\">mort pour la France</a> le <a href=\"/wiki/9_novembre\">9</a> <a href=\"/wiki/Novembre_1918\">novembre</a> <a href=\"/wiki/1918\">1918</a> à <a href=\"/wiki/Paris\">Paris</a>.</p>\n plus <p>Il est considéré comme l'un des <a href=\"/wiki/Po%C3%A8te\">poètes</a> français les plus importants du début du <a href=\"/wiki/XXe_si%C3%A8cle\">XX<sup>e</sup>&#160;siècle</a>, auteur de poèmes tels que <i><a href=\"/wiki/Zone_(po%C3%A8me)\">Zone</a></i>, <i><a href=\"/wiki/La_Chanson_du_mal-aim%C3%A9\">La Chanson du mal-aimé</a></i>, <i>Mai</i> ou encore, ayant fait l'objet de plusieurs adaptations en chanson au cours du siècle, <i><a href=\"/wiki/Le_Pont_Mirabeau\">Le Pont Mirabeau</a></i>. Son œuvre érotique (dont principalement un roman et de nombreux poèmes) est également passée à la postérité. Il expérimenta un temps la pratique du <a href=\"/wiki/Calligramme\">calligramme</a> (terme de son invention, quoiqu'il ne soit pas l'inventeur du genre lui-même, désignant des <a href=\"/wiki/Po%C3%A8mes\">poèmes</a> écrits en forme de dessins et non de forme classique en vers et strophes). Il fut le chantre de nombreuses avant-gardes artistiques de son temps, notamment du <a href=\"/wiki/Cubisme\">cubisme</a> à la gestation duquel il participa, et poète et théoricien de <i>l'Esprit nouveau</i>, et sans doute un précurseur majeur du <a href=\"/wiki/Surr%C3%A9alisme\">surréalisme</a> dont il a forgé le nom.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead51b"
+  },
+  "activite:": "peintre et sculpteur néerlandais, cofondateur du groupe CoBrA",
+  "code_wikipedia:": "Karel Appel",
+  "date_deces:": "2006-05-03",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1921-04-25",
+  "date_naissance_precision:": "J",
+  "id": 130,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Karel%20Appel",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q152793?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Karel%20Appel",
+  "nom": "Karel Appel",
+  "resume": "<p><b>Karel Appel</b> né le <a href=\"/wiki/25_avril\">25</a> <a href=\"/wiki/Avril_1921\">avril</a> <a href=\"/wiki/1921\">1921</a> à <a href=\"/wiki/Amsterdam\">Amsterdam</a>, mort le <a href=\"/wiki/3_mai\">3</a> <a href=\"/wiki/Mai_2006\">mai</a> <a href=\"/wiki/2006\">2006</a> à <a href=\"/wiki/Zurich\">Zurich</a>, est un peintre et sculpteur <a href=\"/wiki/Pays-Bas\">néerlandais</a>, cofondateur du groupe <a href=\"/wiki/Cobra_(mouvement)\">CoBrA</a>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead51c"
+  },
+  "activite:": "mathématicien, physicien, astronome et politicien français",
+  "code_wikipedia:": "François Arago",
+  "date_deces:": "1853-10-02",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1786-02-26",
+  "date_naissance_precision:": "J",
+  "id": 64,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Fran%C3%A7ois%20Arago",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q154353?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Fran%C3%A7ois%20Arago",
+  "nom": "François Arago",
+  "resume": "<p><b>François Arago</b>, né le <a href=\"/wiki/26_f%C3%A9vrier\">26</a> <a href=\"/wiki/F%C3%A9vrier_1786\">février</a> <a href=\"/wiki/1786\">1786</a> à <a href=\"/wiki/Estagel\">Estagel</a> (<a href=\"/wiki/Pyr%C3%A9n%C3%A9es-Orientales\">Pyrénées-Orientales</a>) et mort le <a href=\"/wiki/2_octobre\">2</a> <a href=\"/wiki/Octobre_1853\">octobre</a> <a href=\"/wiki/1853\">1853</a> à <a href=\"/wiki/Paris\">Paris</a>, est un <a href=\"/wiki/Astronomie\">astronome</a>, <a href=\"/wiki/Physique\">physicien</a> et homme <a href=\"/wiki/Politique\">politique</a> <a href=\"/wiki/France\">français</a>.</p>\n plus <p>Il est le plus célèbre des quatre frères Arago, les trois autres étant <a href=\"/wiki/Jean_Arago\">Jean</a> (1788 - 1836), général au service du <a href=\"/wiki/Mexique\">Mexique</a>, <a href=\"/wiki/Jacques_Arago\">Jacques</a> (1790 - 1855), écrivain et explorateur et <a href=\"/wiki/%C3%89tienne_Arago\">Étienne</a> (1802 - 1892), écrivain et homme politique.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead51d"
+  },
+  "activite:": "militaire français, compagnon de la Libération",
+  "code_wikipedia:": " \"François d'Astier de La Vigerie\" ",
+  "date_deces:": "1956-10-09",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1886-03-07",
+  "date_naissance_precision:": "J",
+  "id": 231,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Fran%C3%A7ois%20d%27Astier%20de%20La%20Vigerie",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q130519?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Fran%C3%A7ois%20d%27Astier%20de%20La%20Vigerie",
+  "nom": " \"François d'Astier de La Vigerie\" ",
+  "resume": " <p><b>François d'Astier de La Vigerie</b> est né au <a href=\"/wiki/Le_Mans\">Mans</a> le <a href=\"/wiki/7_mars\">7</a> <a href=\"/wiki/Mars_1886\">mars</a> <a href=\"/wiki/1886\">1886</a>, décédé à <a href=\"/wiki/Paris\">Paris</a> le <a href=\"/wiki/9_octobre\">9</a> <a href=\"/wiki/Octobre_1956\">octobre</a> <a href=\"/wiki/1956\">1956</a>. Militaire de carrière, il se remarqua surtout par ses faits d'armes dans la <a href=\"/wiki/R%C3%A9sistance_int%C3%A9rieure_fran%C3%A7aise\">Résistance</a> au cours de la <a href=\"/wiki/Seconde_Guerre_mondiale\">Seconde Guerre mondiale</a> et qui lui valurent d'être fait <a href=\"/wiki/Compagnon_de_la_Lib%C3%A9ration\">Compagnon de la Libération</a>.</p>\n plus <p>Il est le frère d'<a href=\"/wiki/Emmanuel_d%27Astier_de_la_Vigerie\">Emmanuel d'Astier de la Vigerie</a> et d'<a href=\"/wiki/Henri_d%27Astier_de_la_Vigerie\">Henri d'Astier de la Vigerie</a>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead51e"
+  },
+  "activite:": "poète, écrivain et diplomate guatémaltèque",
+  "code_wikipedia:": "Miguel Ángel Asturias",
+  "date_deces:": "1974-06-09",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1899-10-19",
+  "date_naissance_precision:": "J",
+  "id": 256,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Miguel%20%C3%81ngel%20Asturias",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q75603?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Miguel%20%C3%81ngel%20Asturias",
+  "nom": "Miguel Ángel Asturias",
+  "resume": "<p><b>Miguel Ángel Asturias</b> est un <a href=\"/wiki/Po%C3%A8te\">poète</a>, <a href=\"/wiki/%C3%89crivain\">écrivain</a> et <a href=\"/wiki/Diplomatie\">diplomate</a> guatémaltèque, <a href=\"/wiki/Prix_Nobel_de_litt%C3%A9rature\">prix Nobel de littérature</a>. Né à <a href=\"/wiki/Guatemala_(ville)\">Guatemala</a> le <a href=\"/wiki/19_octobre\">19</a> <a href=\"/wiki/Octobre_1899\">octobre</a> <a href=\"/wiki/1899\">1899</a>, il est mort à <a href=\"/wiki/Madrid\">Madrid</a> le <a href=\"/wiki/9_juin\">9</a> <a href=\"/wiki/Juin_1974\">juin</a> <a href=\"/wiki/1974\">1974</a> et a été inhumé à <a href=\"/wiki/Paris\">Paris</a>, au <a href=\"/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> (division 10).</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead51f"
+  },
+  "activite:": "compositeur français",
+  "code_wikipedia:": "Tony Aubin",
+  "date_deces:": "1981-09-21",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1907-12-08",
+  "date_naissance_precision:": "J",
+  "id": 316,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Tony%20Aubin",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q1347677?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Tony%20Aubin",
+  "nom": "Tony Aubin",
+  "resume": " <p><b>Tony Aubin</b>, né le <a href=\"/wiki/8_d%C3%A9cembre\">8</a> <a href=\"/wiki/D%C3%A9cembre_1907\">décembre</a> <a href=\"/wiki/1907_en_musique_classique\">1907</a> à <a href=\"/wiki/Paris\">Paris</a> où il est mort le <a href=\"/wiki/21_septembre\">21</a> <a href=\"/wiki/Septembre_1981\">septembre</a> <a href=\"/wiki/1981_en_musique_classique\">1981</a>, est un <a href=\"/wiki/Compositeur\">compositeur</a> et <a href=\"/wiki/Chef_d%27orchestre\">chef d'orchestre</a> <a href=\"/wiki/France\">français</a>. Il a composé en particulier des <a href=\"/wiki/Musique_de_film\">musiques de film</a>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead520"
+  },
+  "activite:": "écrivain français",
+  "code_wikipedia:": "Honoré de Balzac",
+  "date_deces:": "1850-08-18",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1799-05-20",
+  "date_naissance_precision:": "J",
+  "id": 96,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Honor%C3%A9%20de%20Balzac",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q9711?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Honor%C3%A9%20de%20Balzac",
+  "nom": "Honoré de Balzac",
+  "resume": " <p><b>Honoré de Balzac</b>, né <b>Honoré Balzac</b> à <a href=\"/wiki/Tours\">Tours</a> le <a href=\"/wiki/20_mai\">20</a> <a href=\"/wiki/Mai_1799\">mai</a> <a href=\"/wiki/1799\">1799</a> (1<sup>er</sup> <a href=\"/wiki/Prairial\">prairial</a> <a href=\"/wiki/An_VII\">an VII</a> du <a href=\"/wiki/Calendrier_r%C3%A9publicain\">calendrier républicain</a>), et mort à <a href=\"/wiki/Paris\">Paris</a> le <a href=\"/wiki/18_ao%C3%BBt\">18</a> <a href=\"/wiki/Ao%C3%BBt_1850\">août</a> <a href=\"/wiki/1850\">1850</a> (à 51&#160;ans), est un <a href=\"/wiki/%C3%89crivain\">écrivain</a> <a href=\"/wiki/France\">français</a>. <a href=\"/wiki/Roman_(litt%C3%A9rature)\">Romancier</a>, <a href=\"/wiki/Dramaturge\">dramaturge</a>, <a href=\"/wiki/Critique_litt%C3%A9raire\">critique littéraire</a>, <a href=\"/wiki/Critique_d%27art\">critique d'art</a>, <a href=\"/wiki/Essai\">essayiste</a>, <a href=\"/wiki/Journaliste\">journaliste</a> et <a href=\"/wiki/Imprimerie\">imprimeur</a>, il a laissé l'une des plus imposantes œuvres <a href=\"/wiki/Roman_(litt%C3%A9rature)\">romanesques</a> de la littérature française, avec 93 romans et nouvelles parus de <a href=\"/wiki/1829_en_litt%C3%A9rature\">1829</a> à <a href=\"/wiki/1855_en_litt%C3%A9rature\">1855</a>, réunis sous le titre <i><a href=\"/wiki/La_Com%C3%A9die_humaine\">La Comédie humaine</a></i>. À cela s'ajoutent <i><a href=\"/wiki/Les_Cent_Contes_drolatiques\">Les Cent Contes drolatiques</a></i>, ainsi que des romans de jeunesse publiés sous des pseudonymes et quelque vingt-cinq œuvres ébauchées.</p>\n plus <p>Il est un maître du <a href=\"/wiki/Roman_(litt%C3%A9rature)\">roman</a> français, dont il a abordé plusieurs genres&#160;: le roman <a href=\"/wiki/Roman_historique\">historique</a> et <a href=\"/wiki/Politique\">politique</a>, avec <i><a href=\"/wiki/Les_Chouans\">Les Chouans</a></i>, le roman philosophique avec <i><a href=\"/wiki/Le_Chef-d%27%C5%93uvre_inconnu\">Le Chef-d'œuvre inconnu</a></i>, le roman <a href=\"/wiki/Fantastique\">fantastique</a> avec <i><a href=\"/wiki/La_Peau_de_chagrin\">La Peau de chagrin</a></i> ou encore le roman <a href=\"/wiki/Po%C3%A9sie\">poétique</a> avec <i><a href=\"/wiki/Le_Lys_dans_la_vall%C3%A9e\">Le Lys dans la vallée</a></i>. Mais ses romans <a href=\"/wiki/R%C3%A9alisme_(litt%C3%A9rature)\">réalistes</a> et psychologiques les plus célèbres, tels <i><a href=\"/wiki/Le_P%C3%A8re_Goriot\">Le Père Goriot</a></i> ou <i><a href=\"/wiki/Eug%C3%A9nie_Grandet\">Eugénie Grandet</a></i>, lui ont valu une qualification réductrice d' «&#160;<a href=\"/wiki/R%C3%A9alisme_(litt%C3%A9rature)\">auteur réaliste</a>&#160;», qui ignore son aspect visionnaire et la puissance de son imagination créatrice.</p>\n plus <p>Comme il l'explique dans son <i>Avant-Propos à la <i>La Comédie humaine</i></i>, il a pour projet d'identifier les «&#160;Espèces sociales&#160;» de son époque, tout comme <a href=\"/wiki/Georges-Louis_Leclerc_de_Buffon\">Buffon</a> avait identifié les espèces zoologiques. Ayant découvert par ses lectures de <a href=\"/wiki/Walter_Scott\">Walter Scott</a> que le roman pouvait atteindre à une «&#160;valeur philosophique&#160;», il veut explorer les différentes classes sociales et les individus qui les composent, afin «&#160;d'écrire l’histoire oubliée par tant d’historiens, celle des mœurs&#160;» et «&#160;faire concurrence à l'<a href=\"/wiki/%C3%89tat_civil\">état civil</a>&#160;».</p>\n plus <p>À côté d'une aristocratie qu'il admire, l'auteur décrit la montée de la bourgeoisie et la puissance de l'Argent. Intéressé par les êtres qui ont un destin, il crée des personnages plus grands que nature, au point qu'on a pu dire que, dans ses romans, «&#160;chacun, même les portières, a du génie&#160;». Certains de ses personnages sont tellement vivants qu'ils sont devenus des <a href=\"/wiki/Arch%C3%A9type_(philosophie)\">archétypes</a>, tels <a href=\"/wiki/Eug%C3%A8ne_de_Rastignac\">Rastignac</a>, le jeune provincial ambitieux, <a href=\"/wiki/F%C3%A9lix_Grandet\">Grandet</a>, l'avare tyran domestique, ou <a href=\"/wiki/Jean-Joachim_Goriot\">le père Goriot</a>, icône de la paternité. Il accorde une place importante aux financiers et aux notaires, mais aussi au personnage de <a href=\"/wiki/Vautrin_(Balzac)\">Vautrin</a>, le hors-la-loi aux identités multiples. Son œuvre compte une énorme proportion de courtisanes et de grisettes, à côté de femmes admirables et angéliques. L'importance qu'il accorde à celles-ci et à leur psychologie lui a valu très tôt un lectorat féminin enthousiaste.</p>\n plus <p>Ses opinions politiques ont beaucoup varié&#160;: s’il affiche des convictions <a href=\"/wiki/L%C3%A9gitimisme\">légitimistes</a> en pleine <a href=\"/wiki/Monarchie_de_Juillet\">Monarchie de Juillet</a>, il s’est auparavant déclaré libéral, et défendra les ouvriers en 1840 et en 1848, même s'il n'accorde aucune place à ceux-ci dans ses romans. Tout en professant des idées conservatrices, il a produit une œuvre admirée par <a href=\"/wiki/Karl_Marx\">Marx</a> et <a href=\"/wiki/Friedrich_Engels\">Engels</a>, et qui glorifie en fait «&#160;l'anarchisme et à la révolte&#160;».</p>\n plus <p>Travailleur forcené, fragilisant par ses excès une santé déjà précaire, endetté à la suite d'investissements hasardeux et de dépenses somptuaires, fuyant ses créanciers sous de faux noms dans différentes demeures, Balzac a aussi eu de nombreuses liaisons féminines avant d'épouser, en <a href=\"/wiki/1850\">1850</a>, la <a href=\"/wiki/Ewelina_Ha%C5%84ska\">comtesse Hańska</a>, qu'il avait courtisée pendant dix-sept ans. Comme l’argent qu’il gagne avec sa plume ne suffit pas à payer ses dettes, il a sans cesse en tête des projets mirobolants&#160;: une imprimerie, un journal, une mine d'argent. C’est dans un palais situé <a href=\"/wiki/Rue_Balzac\">rue Fortunée</a> qu’il meurt profondément endetté au milieu d’un luxe inouï.</p>\n plus <p>Lu et admiré dans toute l'Europe, Balzac a fortement influencé les écrivains de son temps et du siècle suivant. Le roman <i><a href=\"/wiki/L%27%C3%89ducation_sentimentale\">L'Éducation sentimentale</a></i> de <a href=\"/wiki/Gustave_Flaubert\">Gustave Flaubert</a> est directement inspiré du <i>Lys dans la vallée</i>, et <i><a href=\"/wiki/Madame_Bovary\">Madame Bovary</a></i>, de <i><a href=\"/wiki/La_Femme_de_trente_ans\">La Femme de trente ans</a></i>. Le principe du retour de personnages évoluant et se transformant au sein d'un vaste cycle romanesque a notamment inspiré <a href=\"/wiki/%C3%89mile_Zola\">Émile Zola</a> et <a href=\"/wiki/Marcel_Proust\">Marcel Proust</a>. Ses œuvres continuent d'être réimprimées, y compris ses <a href=\"/wiki/%C5%92uvres_de_jeunesse_de_Balzac\">œuvres de jeunesse</a>. Le cinéma a adapté <i><a href=\"/wiki/La_Mar%C3%A2tre\">La Marâtre</a></i> dès <a href=\"/wiki/1906_au_cin%C3%A9ma\">1906</a>&#160;; depuis, <a href=\"/wiki/Films_bas%C3%A9s_sur_l%27%C5%93uvre_d%27Honor%C3%A9_de_Balzac\">les adaptations cinématographiques et télévisuelles de l'œuvre balzacienne</a> se sont multipliées, avec plus d'une centaine de films et téléfilms produits à travers le monde.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead521"
+  },
+  "activite:": "écrivain français",
+  "code_wikipedia:": "Henri Barbusse",
+  "date_deces:": "1935-08-30",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1873-05-17",
+  "date_naissance_precision:": "J",
+  "id": 92,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Henri%20Barbusse",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q18404?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Henri%20Barbusse",
+  "nom": "Henri Barbusse",
+  "resume": "<p><b>Adrien Gustave Henri Barbusse</b>, né à <a href=\"/wiki/Asni%C3%A8res-sur-Seine\">Asnières-sur-Seine</a> le <a href=\"/wiki/17_mai\">17</a> <a href=\"/wiki/Mai_1873\">mai</a> <a href=\"/wiki/1873_en_litt%C3%A9rature\">1873</a> et mort à <a href=\"/wiki/Moscou\">Moscou</a> le <a href=\"/wiki/30_ao%C3%BBt\">30</a> <a href=\"/wiki/Ao%C3%BBt_1935\">août</a> <a href=\"/wiki/1935_en_litt%C3%A9rature\">1935</a>, est un <a href=\"/wiki/%C3%89crivain\">écrivain</a> <a href=\"/wiki/France\">français</a>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead522"
+  },
+  "activite:": "politicien français",
+  "code_wikipedia:": "Paul Barras",
+  "date_deces:": "1829-01-29",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1755-06-30",
+  "date_naissance_precision:": "J",
+  "id": 169,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Paul%20Barras",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q333843?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Paul%20Barras",
+  "nom": "Paul Barras",
+  "resume": " <p><b>Paul François Jean Nicolas</b> vicomte de <b><a href=\"/wiki/Barras\">Barras</a></b> est un <a href=\"/wiki/Homme_politique\">homme politique</a> <a href=\"/wiki/France\">français</a> né le <a href=\"/wiki/30_juin\">30 juin</a> <a href=\"/wiki/1755\">1755</a> à <a href=\"/wiki/Fox-Amphoux\">Fox-Amphoux</a> (<a href=\"/wiki/Provence\">Provence</a>, aujourd'hui <a href=\"/wiki/Var_(d%C3%A9partement)\">Var</a>) et mort le <a href=\"/wiki/29_janvier\">29</a> <a href=\"/wiki/Janvier_1829\">janvier</a> <a href=\"/wiki/1829\">1829</a> à <a href=\"/wiki/Paris\">Paris</a>. Il est inhumé au <a href=\"/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a>.</p>\n plus <p>Député à la <a href=\"/wiki/Convention_nationale\">Convention</a> pendant la <a href=\"/wiki/R%C3%A9volution_fran%C3%A7aise\">Révolution française</a>, il vota la mort de <a href=\"/wiki/Louis_XVI_de_France\">Louis XVI</a>. Il apparaît comme l’un des hommes-clés de la transition vers le <a href=\"/wiki/Directoire\">Directoire</a>, dont il devient l'un des principaux Directeurs à partir du 31 octobre 1795, et jusqu'au <a href=\"/wiki/Coup_d%27%C3%89tat_du_18_brumaire\">coup d'État du 18 brumaire</a> An VIII (9 novembre 1799).</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead523"
+  },
+  "activite:": "chanteur français",
+  "code_wikipedia:": "Alain Bashung",
+  "date_deces:": "2009-03-14",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1947-12-01",
+  "date_naissance_precision:": "J",
+  "id": 207,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Alain%20Bashung",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q380045?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Alain%20Bashung",
+  "nom": "Alain Bashung",
+  "resume": "<p><b>Alain Bashung</b>, né <b>Alain Baschung</b> (Paris,&#160;<a href=\"/wiki/1er_d%C3%A9cembre\">1<sup>er</sup></a> <a href=\"/wiki/D%C3%A9cembre_1947\">décembre</a> <a href=\"/wiki/1947\">1947</a> – Paris,&#160;<a href=\"/wiki/14_mars\">14</a> <a href=\"/wiki/Mars_2009\">mars</a> <a href=\"/wiki/2009\">2009</a>), est un <a href=\"/wiki/Auteur-compositeur-interpr%C3%A8te\">auteur-compositeur-interprète</a> et comédien <a href=\"/wiki/France\">français</a>. Il est devenu une figure importante de la <a href=\"/wiki/Chanson_fran%C3%A7aise\">chanson</a> et du <a href=\"/wiki/Rock_fran%C3%A7ais\">rock français</a> à partir du début des <a href=\"/wiki/Ann%C3%A9es_1980\">années 1980</a> et a influencé un grand nombre de chanteurs de la nouvelle scène française. Il est le chanteur le plus primé aux <a href=\"/wiki/Victoires_de_la_musique\">Victoires de la musique</a> avec 12 victoires obtenues tout au long de sa carrière.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead524"
+  },
+  "activite:": " \"médecin accoucheur et professeur d'obstétrique français\"",
+  "code_wikipedia:": "Jean-Louis Baudelocque",
+  "date_deces:": "1810-05-02",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1745-11-30",
+  "date_naissance_precision:": "J",
+  "id": 119,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Jean-Louis%20Baudelocque",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q545477?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Jean-Louis%20Baudelocque",
+  "nom": "Jean-Louis Baudelocque",
+  "resume": " <p><b>Jean-Louis Baudelocque</b> (<a href=\"/wiki/30_novembre\">30 novembre</a> <a href=\"/wiki/1745\">1745</a> à <a href=\"/wiki/Heilly\">Heilly</a> en <a href=\"/wiki/Picardie\">Picardie</a> - <a href=\"/wiki/2_mai\">2</a> <a href=\"/wiki/Mai_1810\">mai</a> <a href=\"/wiki/1810\">1810</a> à <a href=\"/wiki/Paris\">Paris</a>) est un médecin <a href=\"/wiki/Accouchement\">accoucheur</a> et professeur d'<a href=\"/wiki/Obst%C3%A9trique\">obstétrique</a> <a href=\"/wiki/France\">français</a>. Il est le plus célèbre des médecins accoucheurs de son époque. Auteur de <i>L’art des accouchements</i>, il a fait de l'<a href=\"/wiki/Obst%C3%A9trique\">obstétrique</a> une discipline scientifique.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead525"
+  },
+  "activite:": "peintre français",
+  "code_wikipedia:": "Jean-Adolphe Beaucé",
+  "date_deces:": "1875-07-13",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1818-08-02",
+  "date_naissance_precision:": "J",
+  "id": 113,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Jean-Adolphe%20Beauc%C3%A9",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q3163651?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Jean-Adolphe%20Beauc%C3%A9",
+  "nom": "Jean-Adolphe Beaucé",
+  "resume": " <p><b>Jean-Adolphe Beaucé</b> (<a href=\"/wiki/2_ao%C3%BBt\">2 août</a> <a href=\"/wiki/1818\">1818</a> à <a href=\"/wiki/Paris\">Paris</a> - <a href=\"/wiki/13_juillet\">13 juillet</a> <a href=\"/wiki/1875\">1875</a> à <a href=\"/wiki/Boulogne-Billancourt\">Boulogne-Billancourt</a>) est un <a href=\"/wiki/Artiste_peintre\">peintre</a> <a href=\"/wiki/France\">français</a> qui illustra de nombreuses scènes de batailles et des œuvres d'<a href=\"/wiki/Alexandre_Dumas\">Alexandre Dumas</a>, comme <i><a href=\"/wiki/Les_Trois_Mousquetaires\">Les Trois Mousquetaires</a></i>, <i><a href=\"/wiki/La_Dame_de_Monsoreau\">La Dame de Monsoreau</a></i> ou <i><a href=\"/wiki/Le_Vicomte_de_Bragelonne\">Le Vicomte de Bragelonne</a></i>. Il suivit l'armée française dans ses campagnes, dès <a href=\"/wiki/1843\">1843</a>, en <a href=\"/wiki/Afrique_du_Nord\">Afrique du Nord</a>, au <a href=\"/wiki/Moyen-Orient\">Moyen-Orient</a> et au <a href=\"/wiki/Mexique\">Mexique</a>.</p>\n plus <p>Il est inhumé au <a href=\"/wiki/Cimeti%C3%A8re_du_P%C3%A8re-Lachaise\">cimetière du Père-Lachaise</a> (95<sup>e</sup> division).</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead526"
+  },
+  "activite:": "diplomate, homme politique et historien français.",
+  "code_wikipedia:": "Félix de Beaujour",
+  "date_deces:": "1836-07-01",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1765-12-28",
+  "date_naissance_precision:": "J",
+  "id": 72,
+  "lien_categorie_wikimedia_commons:": "",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q590823?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/F%C3%A9lix%20de%20Beaujour",
+  "nom": "Félix de Beaujour",
+  "resume": "<p><b>Louis-Auguste Félix de Beaujour</b>, de son nom de naissance <b>Louis-Auguste Féris</b> et connu le plus souvent sous le nom de <b>Félix de Beaujour</b>, né à <a href=\"/wiki/Callas_(Var)\">Callas (Var)</a> le <a href=\"/wiki/28_d%C3%A9cembre\">28 décembre</a> <a href=\"/wiki/1765\">1765</a> et mort à <a href=\"/wiki/Paris\">Paris</a> le <a href=\"/wiki/1er_juillet\">1<sup>er</sup>&#160;juillet</a> <a href=\"/wiki/1836\">1836</a>, est un diplomate, homme politique et historien français.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead527"
+  },
+  "activite:": "compositeur italien",
+  "code_wikipedia:": "Vincenzo Bellini",
+  "date_deces:": "1835-09-23",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1801-11-03",
+  "date_naissance_precision:": "J",
+  "id": 199,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Vincenzo%20Bellini",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q170209?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Vincenzo%20Bellini",
+  "nom": "Vincenzo Bellini",
+  "resume": "<p><b>Vincenzo Salvatore Carmelo Francesco Bellini</b>, connu simplement comme <b>Vincenzo Bellini</b>, est un <a href=\"/wiki/Compositeur\">compositeur</a> <a href=\"/wiki/Liste_de_compositeurs_italiens_de_musique_classique\">italien</a> de <a href=\"/wiki/Musique_romantique\">musique dite romantique</a>. Né le <a href=\"/wiki/3_novembre\">3</a> <a href=\"/wiki/Novembre_1801\">novembre</a> <a href=\"/wiki/1801_en_musique_classique\">1801</a> à <a href=\"/wiki/Catane\">Catane</a> (<a href=\"/wiki/Royaume_de_Sicile\">Royaume de Sicile</a>) il est mort le <a href=\"/wiki/23_septembre\">23</a> <a href=\"/wiki/Septembre_1835\">septembre</a> <a href=\"/wiki/1835_en_musique_classique\">1835</a> à <a href=\"/wiki/Puteaux\">Puteaux</a> (<a href=\"/wiki/Hauts-de-Seine\">Hauts-de-Seine</a>, en <a href=\"/wiki/France\">France</a>).</p>\n plus <p>Emporté à 33 ans par une tumeur intestinale, Bellini a laissé malgré sa courte carrière des <a href=\"/wiki/Op%C3%A9ra_(musique)\">opéras</a> parmi les plus joués du <a href=\"/wiki/R%C3%A9pertoire_(art)\">répertoire</a> lyrique, dont <i><a href=\"/wiki/La_sonnambula\">La sonnambula</a></i> (1831), <i><a href=\"/wiki/Norma_(Bellini)\">Norma</a></i> (1831) et <i><a href=\"/wiki/I_puritani\">I puritani</a></i> (1835).</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead528"
+  },
+  "activite:": "médecin et physiologiste français",
+  "code_wikipedia:": "Claude Bernard",
+  "date_deces:": "1878-02-10",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1813-07-12",
+  "date_naissance_precision:": "J",
+  "id": 34,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Claude%20Bernard",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q208230?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Claude%20Bernard",
+  "nom": "Claude Bernard",
+  "resume": "<p><b>Claude Bernard</b>, né le <a href=\"/wiki/12_juillet\">12</a> <a href=\"/wiki/Juillet_1813\">juillet</a> <a href=\"/wiki/1813_en_science\">1813</a> à <a href=\"/wiki/Saint-Julien_(Rh%C3%B4ne)\">Saint-Julien (Rhône)</a> et mort le <a href=\"/wiki/10_f%C3%A9vrier\">10</a> <a href=\"/wiki/F%C3%A9vrier_1878\">février</a> <a href=\"/wiki/1878\">1878</a> à <a href=\"/wiki/Paris\">Paris</a>, est un <a href=\"/wiki/M%C3%A9decin\">médecin</a> et <a href=\"/wiki/Physiologie\">physiologiste</a> <a href=\"/wiki/France\">français</a>.</p>\n plus <p>Considéré comme le fondateur de la <a href=\"/wiki/M%C3%A9decine_exp%C3%A9rimentale\">médecine expérimentale</a>, il a en particulier laissé son nom au <a href=\"/wiki/Syndrome_de_Claude_Bernard-Horner\">syndrome de Claude Bernard-Horner</a>. On lui doit les notions de <a href=\"/wiki/Milieu_int%C3%A9rieur\">milieu intérieur</a> et d’<a href=\"/wiki/Hom%C3%A9ostasie\">homéostasie</a>, fondements de la biologie moderne.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead529"
+  },
+  "activite:": "écrivain et botaniste français",
+  "code_wikipedia:": "Jacques-Henri Bernardin de Saint-Pierre",
+  "date_deces:": "1814-01-21",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1737-01-19",
+  "date_naissance_precision:": "J",
+  "id": 213,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Jacques-Henri%20Bernardin%20de%20Saint-Pierre",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q361976?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Jacques-Henri%20Bernardin%20de%20Saint-Pierre",
+  "nom": "Jacques-Henri Bernardin de Saint-Pierre",
+  "resume": "<p><b>Jacques-Henri Bernardin de Saint-Pierre</b>, né le <a href=\"/wiki/19_janvier\">19 janvier</a> <a href=\"/wiki/1737\">1737</a> au <a href=\"/wiki/Le_Havre\">Havre</a>, de Nicolas Saint-Pierre et Catherine Godebout, et mort le <a href=\"/wiki/21_janvier\">21</a> <a href=\"/wiki/Janvier_1814\">janvier</a> <a href=\"/wiki/1814\">1814</a> à <a href=\"/wiki/%C3%89ragny_(Val-d%27Oise)\">Éragny-sur Oise</a>, est un <a href=\"/wiki/%C3%89crivain\">écrivain</a> et <a href=\"/wiki/Botaniste\">botaniste</a> <a href=\"/wiki/France\">français</a>.</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead52a"
+  },
+  "activite:": "comédienne française",
+  "code_wikipedia:": "Sarah Bernhardt",
+  "date_deces:": "1923-03-26",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1844-10-22",
+  "date_naissance_precision:": "J",
+  "id": 187,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Sarah%20Bernhardt",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q4605?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Sarah%20Bernhardt",
+  "nom": "Sarah Bernhardt",
+  "resume": "<p>Henriette-Marie-Sarah Bernhardt dite <b>Sarah Bernhardt</b>, née à <a href=\"/wiki/Paris\">Paris</a> vraisemblablement en <a href=\"/wiki/Octobre\">octobre</a> <a href=\"/wiki/1844\">1844</a> et morte dans la même ville le <a href=\"/wiki/26_mars\">26</a> <a href=\"/wiki/Mars_1923\">mars</a> <a href=\"/wiki/1923_au_th%C3%A9%C3%A2tre\">1923</a>, est une des plus importantes <a href=\"/wiki/Actrice\">actrices</a> <a href=\"/wiki/France\">françaises</a> du XIX<sup>e</sup>&#160;siècle et du début du XX<sup>e</sup>&#160;siècle.</p>\n plus <p>Appelée par <a href=\"/wiki/Victor_Hugo\">Victor Hugo</a> «&#160;la Voix d'or&#160;», mais aussi par d'autres «&#160;la Divine&#160;» ou encore l'«&#160;Impératrice du théâtre&#160;», elle est considérée par beaucoup comme une des plus grandes tragédiennes françaises du <a href=\"/wiki/XIXe_si%C3%A8cle\">XIX<sup>e</sup>&#160;siècle</a>. Première «&#160;<a href=\"/wiki/Vedette_(personnalit%C3%A9)\">star</a>&#160;» internationale, elle est la première comédienne à avoir fait des tournées triomphales sur les cinq continents, <a href=\"/wiki/Jean_Cocteau\">Jean Cocteau</a> inventant pour elle l'expression de «&#160;monstre sacré&#160;».</p>"
+},{
+  "_id": {
+    "$oid": "5fd4d102baad0fbb52ead52b"
+  },
+  "activite:": "médecin français",
+  "code_wikipedia:": "Julien Bessières",
+  "date_deces:": "1840-07-31",
+  "date_deces_precision:": "J",
+  "date_naissance:": "1777-07-30",
+  "date_naissance_precision:": "J",
+  "id": 304,
+  "lien_categorie_wikimedia_commons:": "http://commons.wikimedia.org/wiki/Category:Julien%20Bessi%C3%A8res",
+  "lien_wikidata:": "http://www.wikidata.org/wiki/Q3189365?uselang=fr",
+  "lien_wikipedia": "http://fr.wikipedia.org/wiki/Julien%20Bessi%C3%A8res",
+  "nom": "Julien Bessières",
+  "resume": " <p><b>Henri Géraud Julien, <a href=\"/wiki/Chevalier_de_l%27Empire\">chevalier Bessières et de l'Empire</a></b> (<a href=\"/wiki/30_juillet\">30</a> <a href=\"/wiki/Juillet_1777\">juillet</a> <a href=\"/wiki/1777\">1777</a> - <a href=\"/wiki/Gramat\">Gramat</a> ✝ <a href=\"/wiki/31_juillet\">31</a> <a href=\"/wiki/Juillet_1840\">juillet</a> <a href=\"/wiki/1840\">1840</a> - <a href=\"/wiki/Paris\">Paris</a>, ancien <a href=\"/wiki/9e_arrondissement_de_Paris\">9<sup>e</sup> arrondissement de Paris</a>), est un <a href=\"/wiki/M%C3%A9decin\">médecin</a>, <a href=\"/wiki/Diplomate\">diplomate</a> et <a href=\"/wiki/Homme_politique_fran%C3%A7ais\">homme politique français</a> des <a href=\"/wiki/XVIIIe_si%C3%A8cle\">XVIII<sup>e</sup></a> et <a href=\"/wiki/XIXe_si%C3%A8cle\">XIX<sup>e</sup></a>&#160;siècles.</p>"
+}]
