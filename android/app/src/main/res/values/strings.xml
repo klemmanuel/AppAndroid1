@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Project App</string>
+    <string name="app_name" translatable="false">Bookshelf</string>
+    <string name="author">Author</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="logo">Logo</string>
+    <string name="name">Name</string>
+    <string name="job">Job</string>
+    <string name="description">Description</string>
+    <string name="clear">Clear</string>
 </resources>
