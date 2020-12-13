@@ -47,7 +47,9 @@ class MainActivity : AppCompatActivity(), DescriptionActivityStarter {
                 val allCards = response.body()
                 allCards?.forEach {
                     cardshelf.addCard(it)
+                    Log.d("hey hey je debuge", "name : "+ it.name + "job: " +it.job )
                 }
+                displayList()
             }
 
             override fun onFailure(call: Call<MutableList<Card>>, t: Throwable) {
@@ -76,9 +78,9 @@ class MainActivity : AppCompatActivity(), DescriptionActivityStarter {
     }
 
     override fun startDescriptionActivity(card: Card) {
-        val intent = Intent(this, DescriptionActivity::class.java).apply {
-            putExtra(DescriptionActivity.CARD_MESSAGE, card)
-        }
+        val intent = Intent(this, DescriptionActivity::class.java)
+        intent.putExtra("CARDNAME", card.name)
+        intent.putExtra("CARDDESC", "card job: " + card.job  + "\ncard de description: " + card.description)
         startActivity(intent)
     }
 
@@ -90,14 +92,14 @@ class MainActivity : AppCompatActivity(), DescriptionActivityStarter {
         ).show()
     }
 
-//    private fun displayList() {
-//        val cardListFragment = CardListFragment.newInstance(cardshelf.getAllCards())
-//
-//        supportFragmentManager.beginTransaction()
-//            .replace(R.id.a_main_lyt_container, cardListFragment)
-//            .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
-//            .commitAllowingStateLoss()
-//    }
+    private fun displayList() {
+        val cardListFragment = CardListFragment.newInstance(cardshelf.getAllCards())
+
+        supportFragmentManager.beginTransaction()
+            .replace(R.id.a_main_lyt_container, cardListFragment)
+            .setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE)
+            .commitAllowingStateLoss()
+    }
 
 //    fun goToCreation(view: View) {
 //        val createCardFragment = CreateCardFragment()

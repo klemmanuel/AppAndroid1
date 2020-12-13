@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
+import kotlinx.android.synthetic.main.activity_description.*
 
 class DescriptionActivity : AppCompatActivity() {
     companion object {
@@ -15,6 +16,9 @@ class DescriptionActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_description)
-        Log.i("DESCRIPTPION", card.toString())
+
+        card_name.text = getIntent().getStringExtra("CARDNAME")
+        card_description.text = getIntent().getStringExtra("CARDDESC")
+        //Log.i("DESCRIPTPION", card.toString())
     }
 }
