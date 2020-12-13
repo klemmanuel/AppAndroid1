@@ -4,18 +4,22 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
-class CardAdapter(private val cards: ArrayList<Card>) : RecyclerView.Adapter<CardViewHolder>() {
+class CardAdapter(
+    private val cards: ArrayList<Card>,
+    private val onStartDescritionPushed: (Card) -> Unit
+) : RecyclerView.Adapter<CardViewHolder>() {
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CardViewHolder {
         val row = LayoutInflater.from(parent.context).inflate(R.layout.row_card, parent, false)
         return CardViewHolder(row)
     }
 
     override fun onBindViewHolder(holder: CardViewHolder, position: Int) {
-        val (name, job, description) = this.cards[position]
+        val card = this.cards[position]
 
-        holder.txvName.text = name
-        holder.txvJob.text = job
-        holder.txvDescription.text = description
+        holder.txvName.text = card.name
+        holder.txvJob.text = card.job
+        holder.txvDescription.text = card.description
+        holder.itemView.setOnClickListener { onStartDescritionPushed(card) }
     }
 
     override fun getItemCount(): Int {

@@ -1,5 +1,6 @@
 package com.ismin.projectapp
 
+import android.content.Context
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -12,8 +13,16 @@ import androidx.recyclerview.widget.RecyclerView
 private const val ARG_CARDS = "ARG_CARDS"
 
 class CardListFragment : Fragment() {
+    private lateinit var activity: DescriptionActivityStarter
     private lateinit var cards: ArrayList<Card>
     private lateinit var rcvCards: RecyclerView
+
+    override fun onAttach(context: Context) {
+        if (context is DescriptionActivityStarter) {
+            activity = context
+        }
+        super.onAttach(context)
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -30,7 +39,9 @@ class CardListFragment : Fragment() {
         val rootView = inflater.inflate(R.layout.fragment_card_list, container, false)
 
         this.rcvCards = rootView.findViewById(R.id.f_card_list_rcv_cards)
-        this.rcvCards.adapter = CardAdapter(cards)
+        this.rcvCards.adapter = CardAdapter(cards, onStartDescritionPushed = {
+            activity.startDescriptionActivity(it)
+        })
         val linearLayoutManager = LinearLayoutManager(context)
         this.rcvCards.layoutManager = linearLayoutManager
 
@@ -49,4 +60,8 @@ class CardListFragment : Fragment() {
                 }
             }
     }
+}
+
+interface DescriptionActivityStarter {
+    fun startDescriptionActivity(card: Card)
 }
