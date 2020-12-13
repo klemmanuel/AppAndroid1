@@ -1,4 +1,4 @@
-package com.ismin.android
+package com.ismin.projectapp
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -11,7 +11,7 @@ class CardAdapter(private val cards: ArrayList<Card>) : RecyclerView.Adapter<Car
     }
 
     override fun onBindViewHolder(holder: CardViewHolder, position: Int) {
-        val (name, job, description) = cards[position]
+        val (name, job, description) = this.cards[position]
 
         holder.txvName.text = name
         holder.txvJob.text = job
@@ -19,11 +19,12 @@ class CardAdapter(private val cards: ArrayList<Card>) : RecyclerView.Adapter<Car
     }
 
     override fun getItemCount(): Int {
-        return cards.size
+        return this.cards.size
     }
 
-    fun refreshData(updatedCards: java.util.ArrayList<Card>) {
-        cards.clear()
-        cards.addAll(updatedCards)
+    fun updateItem(cardsToDisplay: List<Card>) {
+        cards.clear();
+        cards.addAll(cardsToDisplay)
+        notifyDataSetChanged();
     }
 }

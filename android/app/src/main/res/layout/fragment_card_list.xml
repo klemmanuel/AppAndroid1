@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BookListFragment">
+    tools:context="com.ismin.android.BookListFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/f_card_list_rcv_cards"
@@ -14,7 +13,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:itemCount="7"
+        tools:itemCount="10"
         tools:listitem="@layout/row_card" />
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

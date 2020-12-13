@@ -9,4 +9,7 @@
     <string name="job">Job</string>
     <string name="description">Description</string>
     <string name="clear">Clear</string>
+    <string name="creation">Creation</string>
+    <string name="sauvegarder">sauvegarder</string>
+    <string name="add_a_card">add_a_card</string>
 </resources>

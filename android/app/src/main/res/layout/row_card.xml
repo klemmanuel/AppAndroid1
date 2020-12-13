@@ -25,8 +25,8 @@
         android:layout_marginStart="4dp"
         android:fontFamily="sans-serif-medium"
         android:textAppearance="@style/TextAppearance.AppCompat.Small"
-        app:layout_constraintBottom_toBottomOf="@+id/r_book_imv_logo"
-        app:layout_constraintStart_toEndOf="@+id/r_book_imv_logo"
+        app:layout_constraintBottom_toBottomOf="@+id/r_card_imv_logo"
+        app:layout_constraintStart_toEndOf="@+id/r_card_imv_logo"
         tools:text="Voltaire" />
 
     <TextView
@@ -36,13 +36,13 @@
         android:layout_marginStart="4dp"
         android:layout_marginTop="4dp"
         android:fontFamily="sans-serif-medium"
-        app:layout_constraintBottom_toBottomOf="@+id/r_book_imv_logo"
+        app:layout_constraintBottom_toBottomOf="@+id/r_card_imv_logo"
         app:layout_constraintStart_toEndOf="@+id/r_card_txv_job"
         app:layout_constraintTop_toBottomOf="@+id/r_card_txv_name"
         tools:text="10/12/1899" />
 
     <ImageView
-        android:id="@+id/r_book_imv_logo"
+        android:id="@+id/r_card_imv_logo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="@string/logo"

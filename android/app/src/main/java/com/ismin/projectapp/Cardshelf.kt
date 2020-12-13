@@ -1,6 +1,8 @@
-package com.ismin.android
+package com.ismin.projectapp
 
-class Cardshelf {
+import java.io.Serializable
+
+class Cardshelf : Serializable {
     private val storage = HashMap<String, Card>()
 
     fun addCard(card: Card) {

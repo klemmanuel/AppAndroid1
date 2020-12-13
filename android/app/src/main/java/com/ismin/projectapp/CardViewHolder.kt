@@ -1,4 +1,4 @@
-package com.ismin.android
+package com.ismin.projectapp
 
 import android.view.View
 import android.widget.TextView

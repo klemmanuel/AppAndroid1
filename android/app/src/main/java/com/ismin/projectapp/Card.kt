@@ -1,4 +1,4 @@
-package com.ismin.android
+package com.ismin.projectapp
 
 import java.io.Serializable
 
