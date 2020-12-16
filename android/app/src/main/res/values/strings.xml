@@ -1,15 +1,17 @@
 <resources>
-    <string name="app_name" translatable="false">Bookshelf</string>
-    <string name="author">Author</string>
+    <string name="app_name" translatable="false">Cardshelf</string>
     <string name="save">Save</string>
-    <string name="title">Title</string>
-    <string name="date">Date</string>
     <string name="logo">Logo</string>
     <string name="name">Name</string>
     <string name="job">Job</string>
     <string name="description">Description</string>
     <string name="clear">Clear</string>
     <string name="creation">Creation</string>
-    <string name="sauvegarder">sauvegarder</string>
     <string name="add_a_card">add_a_card</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="refresh">Refresh</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="wikidata">Wikidata</string>
+    <string name="resume">Resume</string>
+    <string name="apropos">\nInfo générales de l\'application \n\n \n\n-URL des données :  \nhttps://app-fe0b6e61-56d7-403b-8e1d-a5425534a2a7.cleverapps.io/cards\n\n \n\n-Il s\'agit d\'une société qui stocke des notes d\'information sur ses clients, qui peuvent être utilisées pour imprimer les fax de leurs cartes de visite.\n\n-leur nom, leur fonction et des informations complémentaires les concernant\n\n\n-Les employés d\'une entreprise utiliseront l\'application pour gérer les informations sur les clients.\n\n\n\n-Librairies utilisées :\n Retrofit2 : Lecture des données\n\n \n\n -Licence : open source\n\n</string>
 </resources>

@@ -2,33 +2,42 @@ package com.ismin.projectapp
 
 import android.content.Context
 import android.os.Bundle
-import androidx.fragment.app.Fragment
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
+import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import androidx.recyclerview.widget.RecyclerView
-
-private const val ARG_CARDS = "ARG_CARDS"
+import com.ismin.projectapp.databinding.FragmentCardListBinding
+import retrofit2.Call
+import retrofit2.Callback
+import retrofit2.HttpException
+import retrofit2.Response
 
 class CardListFragment : Fragment() {
-    private lateinit var activity: DescriptionActivityStarter
-    private lateinit var cards: ArrayList<Card>
-    private lateinit var rcvCards: RecyclerView
+    private lateinit var activity: Context
+    private lateinit var binding: FragmentCardListBinding
+    private lateinit var adapter: CardAdapter
+
+    fun submitList(cards: List<Card>) {
+        adapter.submitList(cards)
+    }
+
+    private fun showLoading() {
+        binding.progressBar.visibility = View.VISIBLE
+    }
+
+    private fun hideLoading() {
+        binding.progressBar.visibility = View.GONE
+    }
 
     override fun onAttach(context: Context) {
-        if (context is DescriptionActivityStarter) {
+        if (context is DescriptionActivityStarter && context is CanBeFavorite && context is CardsGetter) {
             activity = context
         }
         super.onAttach(context)
-    }
-
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        arguments?.let{
-            cards = it.getSerializable(ARG_CARDS) as ArrayList<Card>
-        }
     }
 
     override fun onCreateView(
@@ -36,32 +45,72 @@ class CardListFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         //inflate the layout for this fragment
-        val rootView = inflater.inflate(R.layout.fragment_card_list, container, false)
+        binding = FragmentCardListBinding.inflate(inflater, container, false)
 
-        this.rcvCards = rootView.findViewById(R.id.f_card_list_rcv_cards)
-        this.rcvCards.adapter = CardAdapter(cards, onStartDescritionPushed = {
-            activity.startDescriptionActivity(it)
-        })
+        adapter = CardAdapter(
+            onStartDescritionPushed = (activity as DescriptionActivityStarter)::startDescriptionActivity,
+            onFavorite = (activity as CanBeFavorite)::toggleFavorite,
+        )
+        binding.fCardListRcvCards.adapter = adapter
         val linearLayoutManager = LinearLayoutManager(context)
-        this.rcvCards.layoutManager = linearLayoutManager
+        binding.fCardListRcvCards.layoutManager = linearLayoutManager
 
         val dividerItemDecoration = DividerItemDecoration(context, linearLayoutManager.orientation)
-        this.rcvCards.addItemDecoration(dividerItemDecoration)
+        binding.fCardListRcvCards.addItemDecoration(dividerItemDecoration)
 
-        return rootView
+        refresh()
+
+        return binding.root
+    }
+
+    fun refresh() {
+        showLoading()
+        (activity as CardsGetter).getAllCards().enqueue(object : Callback<List<Card>> {
+            override fun onResponse(
+                call: Call<List<Card>>,
+                response: Response<List<Card>>
+            ) {
+                if (response.code() != 200) {
+                    val error = HttpException(response)
+
+                    displayErrorToast(error)
+                    Log.e(DescriptionActivity.TAG, error.toString(), error)
+                }
+                response.body()?.let {
+                    submitList(it)
+                }
+                hideLoading()
+            }
+
+            override fun onFailure(call: Call<List<Card>>, t: Throwable) {
+                displayErrorToast(t)
+                hideLoading()
+            }
+        })
+    }
+
+    private fun displayErrorToast(t: Throwable) {
+        Toast.makeText(
+            activity.applicationContext,
+            "Network error ${t.localizedMessage}",
+            Toast.LENGTH_LONG
+        ).show()
     }
 
     companion object {
         @JvmStatic
-        fun newInstance(cards: List<Card>) =
-            CardListFragment().apply {
-                arguments = Bundle().apply {
-                    putSerializable(ARG_CARDS, ArrayList(cards))
-                }
-            }
+        fun newInstance() = CardListFragment()
     }
 }
 
 interface DescriptionActivityStarter {
     fun startDescriptionActivity(card: Card)
+}
+
+interface CanBeFavorite {
+    fun toggleFavorite(card: Card)
+}
+
+interface CardsGetter {
+    fun getAllCards(): Call<List<Card>>
 }
